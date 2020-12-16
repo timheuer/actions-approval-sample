@@ -21,7 +21,7 @@ env:
   AZURE_WEBAPP_PACKAGE_PATH: ./published
   CONFIGURATION: Release
   DOTNET_CORE_VERSION: 5.0.x
-  PROJECT_PATH: sample-workflow-deploy.csproj
+  PROJECT_PATH: sample-workflow-deploy/sample-workflow-deploy.csproj
   DOTNET_CLI_TELEMETRY_OPTOUT: 1
   DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
   DOTNET_NOLOGO: true
