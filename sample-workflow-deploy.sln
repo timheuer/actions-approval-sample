@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30815.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sample-workflow-deploy", "sample-workflow-deploy\sample-workflow-deploy.csproj", "{CA9CE1E8-B1A7-45EB-AE6C-4AB729BF0BCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{81B52B4C-22B1-4C23-8EAE-0E046C444AB8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9CE1E8-B1A7-45EB-AE6C-4AB729BF0BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9CE1E8-B1A7-45EB-AE6C-4AB729BF0BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9CE1E8-B1A7-45EB-AE6C-4AB729BF0BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9CE1E8-B1A7-45EB-AE6C-4AB729BF0BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDA3A7D0-B06C-4C20-8C94-1CE492980653}
+	EndGlobalSection
+EndGlobal
